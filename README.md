@@ -24,7 +24,7 @@ Installation
 ## Clone the repository:
 - bash
 - Copy code
-- git clone https://github.com/yourusername/fine-tuning-phi_3-using-unsloth.git
+- git clone https://github.com/imanoop7/fine-tuning-phi_3-using-unsloth.git
 - cd fine-tuning-phi_3-using-unsloth
 ## Install required packages:
 - bash
