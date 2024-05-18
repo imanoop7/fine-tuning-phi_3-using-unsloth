@@ -22,14 +22,14 @@ Jupyter Notebook
 Necessary Python libraries (listed in requirements.txt)
 Installation
 ## Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/fine-tuning-phi_3-using-unsloth.git
-cd fine-tuning-phi_3-using-unsloth
+- bash
+- Copy code
+- git clone https://github.com/yourusername/fine-tuning-phi_3-using-unsloth.git
+- cd fine-tuning-phi_3-using-unsloth
 ## Install required packages:
-bash
-Copy code
-pip install -r requirements.txt
+- bash
+- Copy code
+- pip install -r requirements.txt
 ## Dataset
 The dataset used for fine-tuning is yahma/alpaca-cleaned. This dataset has been pre-processed to remove noise and inconsistencies, making it suitable for training and evaluation purposes.
 
